@@ -1,0 +1,6 @@
+1,Kayısı,Meyve,246,150.0,1
+2,Karpuz,Meyve,24,35.0,1
+3,Elma,Meyve,147,22.0,1
+4,Makarna,Gıda,499,22.0,1
+5,Çamaşır Deterjanı,Temizlik,96,225.21,0
+6,Maraş Otu,Yeşillik,97,2000.0,2
